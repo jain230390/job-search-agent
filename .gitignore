@@ -1,0 +1,7 @@
+.env
+resume.txt
+seen_roles.json
+matches_*.csv
+run.log
+.DS_Store
+__pycache__/
