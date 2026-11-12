@@ -1,0 +1,11 @@
+[
+  { "name": "Uber" },
+  { "name": "Meesho" },
+  { "name": "Amazon" },
+  { "name": "Myntra", "level": "director_plus" },
+  { "name": "Swiggy" },
+  { "name": "Google", "level": "manager_plus" },
+  { "name": "Flipkart", "level": "director_plus" },
+  { "name": "Zomato" },
+  { "name": "Snabbit" }
+]

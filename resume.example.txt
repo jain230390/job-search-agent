@@ -1,0 +1,2 @@
+Paste your resume here as plain text, then rename this file to resume.txt.
+(resume.txt is git-ignored so your personal details never get published.)
